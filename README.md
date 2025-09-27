@@ -30,10 +30,17 @@ AI/ML model for image-based disease detection (optional)
 
 farm-mate-au/
  ├── public/           # Static files
+ 
  ├── src/
+ 
  │   ├── components/   # Reusable UI components
+ 
  │   ├── pages/        # Application pages
+ 
  │   ├── styles/       # Styling files
+ 
  │   └── utils/        # Helper functions and configs
+ 
  ├── package.json      # Dependencies & scripts
+ 
  └── README.md         # Project documentation
