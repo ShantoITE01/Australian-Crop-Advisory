@@ -44,3 +44,11 @@ farm-mate-au/
  ├── package.json      # Dependencies & scripts
  
  └── README.md         # Project documentation
+
+ ✅ Future Improvements
+
+Mobile app version for offline use
+
+Multi-language support
+
+AI-powered crop yield predictions
